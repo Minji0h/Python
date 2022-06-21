@@ -1,4 +1,4 @@
-from coffeMachine import CoffeeMachine
+from coffemachine import CoffeeMachine
 
 COFFEEMACHINE = CoffeeMachine()
 

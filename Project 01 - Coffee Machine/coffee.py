@@ -12,12 +12,15 @@ class Coffee():
         self.price = price
         self.size = size
         self.ingredients = ingredients
-
-    def get_name(self):
-        return self.name
-
-    def get_price(self):
-        return self.price
+    
+    def valida_insumos(self, milk, water, coffee):
+        if(self.ingredients['milk'] >= milk and self.ingredients['water'] >= water and self.ingredients['coffee'] >= coffee): 
+            return True
+        else:
+            print(DIVIDER)
+            print("Ingredientes insuficientes! Por gentileza, reabasteça a maquina")
+            print(DIVIDER)
+            return False
 
     def print_ingredients(self):
         milk = self.ingredients['milk']
