@@ -4,20 +4,35 @@
         "price": 1.50,
         "water": 50,
         "coffee": 18,
-        "milk": 0
+        "milk": 0,
+        "cocoa":0,
+        "chantilly": 0
     },
     {
         "name": "Latte",
         "price": 2.50,
         "water": 200,
         "coffee": 24,
-        "milk": 150
+        "milk": 150,
+        "cocoa":0,
+        "chantilly": 0
     },
     {
         "name": "Cappuccino",
         "price": 3.00,
         "water": 250,
         "coffee": 24,
-        "milk": 100
+        "milk": 100,
+        "cocoa":0,
+        "chantilly": 0
+    },
+    {
+        "name": "Ice Suice Coffee",
+        "price": 5.00,
+        "water": 240,
+        "coffee": 24,
+        "milk": 0,
+        "cocoa":43,
+        "chantilly": 1
     }
 ]
