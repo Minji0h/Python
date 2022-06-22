@@ -37,8 +37,8 @@ class snake():
         
     def valida_batida(self):
         for i in self.snake[1:]:
-            return True
-        return False
+            return False
+        return True
 
     def to_right(self):
         if(self.head.heading() != LEFT):
