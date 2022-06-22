@@ -1,0 +1,849 @@
+[
+    {
+        "Question": "Normalmente, quantos litros de sangue uma pessoa tem? Em media, quantos sao retirados numa doacao de sangue?",
+        "Options": [
+            "Tem entre 2 a 4 litros Sao retirados 450 mililitros",
+            "Tem entre 4 a 6 litros Sao retirados 450 mililitros",
+            "Tem 10 litros Sao retirados 2 litros",
+            "Tem 7 litros Sao retirados 15 litros",
+            "Tem 05 litros Sao retirados 05 litros"
+        ],
+        "Asnwer": "Tem entre 4 a 6 litros Sao retirados 450 mililitros"
+    },
+    {
+        "Question": "De quem e a famosa frase 'Penso, logo existo'",
+        "Options": [
+            "Platao",
+            "Galileu Galilei",
+            "Descartes",
+            "Sócrates",
+            "Francis Bacon"
+        ],
+        "Asnwer": "Descartes"
+    },
+    {
+        "Question": "De onde e a invencao do chuveiro eletrico?",
+        "Options": [
+            "Franca",
+            "Inglaterra",
+            "Brasil",
+            "Austrália",
+            "Itália"
+        ],
+        "Asnwer": "Brasil"
+    },
+    {
+        "Question": "Quais o menor e o maior pais do mundo?",
+        "Options": [
+            "Vaticano e Russia",
+            "Nauru e China",
+            "Monaco e Canadá",
+            "Malta e Estados Unidos",
+            "Sao Marino e India"
+        ],
+        "Asnwer": "Vaticano e Russia"
+    },
+    {
+        "Question": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+        "Options": [
+            "Jânio Quadros",
+            "Jacinto Anjos",
+            "Getúlio Vargas",
+            "Joao Figueiredo",
+            "Joao Goulart"
+        ],
+        "Asnwer": "Joao Goulart"
+    },
+    {
+        "Question": "Qual o grupo em que todas as palavras foram escritas corretamente?",
+        "Options": [
+            "Asterístico, beneficiente, meteorologia, entertido",
+            "Asterisco, beneficente, meteorologia, entretido",
+            "Asterisco, beneficente, metereologia, entretido",
+            "Asterístico, beneficiente, metereologia, entretido",
+            "Asterisco, beneficiente, metereologia, entretido"
+        ],
+        "Asnwer": "Asterisco, beneficente, meteorologia, entretido"
+    },
+    {
+        "Question": "Qual o livro mais vendido no mundo a seguir a Biblia?",
+        "Options": [
+            "O Senhor dos Aneis",
+            "Dom Quixote",
+            "O Pequeno Principe",
+            "Ela, a Feiticeira",
+            "Um Conto de Duas Cidades"
+        ],
+        "Asnwer": "Dom Quixote"
+    },
+    {
+        "Question": "Quantas casas decimais tem o numero pi?",
+        "Options": [
+            "Duas",
+            "Centenas",
+            "Infinitas",
+            "Vinte",
+            "Milhares"
+        ],
+        "Asnwer": "Infinitas"
+    },
+    {
+        "Question": "Atualmente, quantos elementos quimicos a tabela periodica possui?",
+        "Options": [
+            "113",
+            "109",
+            "108",
+            "118",
+            "92"
+        ],
+        "Asnwer": "118"
+    },
+    {
+        "Question": "Quais os paises que tem a maior e a menor expectativa de vida do mundo?",
+        "Options": [
+            "Japao e Serra Leoa",
+            "Australia e Afeganistao",
+            "Italia e Chade",
+            "Brasil e Congo",
+            "Estados Unidos e Angola"
+        ],
+        "Asnwer": "Japao e Serra Leoa"
+    },
+    {
+        "Question": "O que a palavra <em>legend</em> significa em portugues?",
+        "Options": [
+            "Legenda",
+            "Conto",
+            "Historia",
+            "Lenda",
+            "Legendario"
+        ],
+        "Asnwer": "Lenda"
+    },
+    {
+        "Question": "Qual o numero minimo de jogadores numa partida de futebol?",
+        "Options": [
+            "8",
+            "10",
+            "9",
+            "5",
+            "7"
+        ],
+        "Asnwer": "7"
+    },
+    {
+        "Question": "Quais os principais autores do Barroco no Brasil?",
+        "Options": [
+            "Gregorio de Matos, Bento Teixeira e Manuel Botelho de Oliveira",
+            "Miguel de Cervantes, Gregorio de Matos e Danthe Alighieri",
+            "Padre Antonio Vieira, Padre Manuel de Melo e Gregorio de Matos",
+            "Castro Alves, Bento Teixeira e Manuel Botelho de Oliveira",
+            "Alvares de Azevedo, Gregorio de Matos e Bento Teixeira"
+        ],
+        "Asnwer": "Gregorio de Matos, Bento Teixeira e Manuel Botelho de Oliveira"
+    },
+    {
+        "Question": "Quais as duas datas que sao comemoradas em novembro?",
+        "Options": [
+            "Independencia do Brasil e Dia da Bandeira",
+            "Proclamacao da Republica e Dia Nacional da Consciencia Negra",
+            "Dia do Medico e Dia de Sao Lucas",
+            "Dia de Finados e Dia Nacional do Livro",
+            "Black Friday e Dia da arvore"
+        ],
+        "Asnwer": "Proclamacao da Republica e Dia Nacional da Consciencia Negra"
+    },
+    {
+        "Question": "Quem pintou 'Guernica'?",
+        "Options": [
+            "Paul Cezanne",
+            "Pablo Picasso",
+            "Diego Rivera",
+            "Tarsila do Amaral",
+            "Salvador Dali"
+        ],
+        "Asnwer": "Pablo Picasso"
+    },
+    {
+        "Question": "Quanto tempo a luz do Sol demora para chegar a Terra?",
+        "Options": [
+            "12 minutos",
+            "1 dia",
+            "12 horas",
+            "8 minutos",
+            "segundos"
+        ],
+        "Asnwer": "8 minutos"
+    },
+    {
+        "Question": "Qual a traducao da frase 'Fabiano cogio su saco antes de salir'",
+        "Options": [
+            "Fabiano coseu seu paleto antes de sair",
+            "Fabiano fechou o saco antes de sair",
+            "Fabiano pegou seu paleto antes de sair",
+            "Fabiano cortou o saco antes de cair",
+            "Fabiano rasgou seu paleto antes de cair"
+        ],
+        "Asnwer": "Fabiano pegou seu paleto antes de sair"
+    },
+    {
+        "Question": "Qual a nacionalidade de Che Guevara?",
+        "Options": [
+            "Cubana",
+            "Peruana",
+            "Panamenha",
+            "Boliviana",
+            "Argentina"
+        ],
+        "Asnwer": "Argentina"
+    },
+    {
+        "Question": "Quais sao os tres predadores do reino animal reconhecidos pela habilidade de cacar em grupo,",
+        "Options": [
+            "Tubarao branco, crocodilo e sucuri",
+            "Tigre, gaviao e orca",
+            "Hiena, urso branco e lobo cinzento",
+            "Orca, onca e tarântula",
+            "Leao, tubarao branco e urso cinzento"
+        ],
+        "Asnwer": "Hiena, urso branco e lobo cinzento"
+    },
+    {
+        "Question": "Qual a altura da rede de volei nos jogos masculino e feminino?",
+        "Options": [
+            "2,4 para ambos",
+            "2,5 m e 2,0 m",
+            "1,8 m e 1,5 m",
+            "2,45 m e 2,15 m",
+            "2,43 m e 2,24 m"
+        ],
+        "Asnwer": "2,43 m e 2,24 m"
+    },
+    {
+        "Question": "Em que ordem surgiram os modelos atomicos?",
+        "Options": [
+            "Thomson, Dalton, Rutherford, Rutherford-Bohr",
+            "Rutherford-Bohr, Rutherford, Thomson, Dalton",
+            "Dalton, Rutherford-Bohr, Thomson, Rutherford",
+            "Dalton, Thomson, Rutherford-Bohr, Rutherford",
+            "Dalton, Thomson, Rutherford, Rutherford-Bohr"
+        ],
+        "Asnwer": "Dalton, Thomson, Rutherford, Rutherford-Bohr"
+    },
+    {
+        "Question": "Qual personagem folclorico costuma ser agradado pelos cacadores com a oferta de fumo?",
+        "Options": [
+            "Caipora",
+            "Saci",
+            "Lobisomem",
+            "Boitata",
+            "Negrinho do Pastoreio"
+        ],
+        "Asnwer": "Caipora"
+    },
+    {
+        "Question": "Em que periodo da pre-historia o fogo foi descoberto?",
+        "Options": [
+            "Neolitico",
+            "Paleolitico",
+            "Idade dos Metais",
+            "Periodo da Pedra Polida",
+            "Idade Media"
+        ],
+        "Asnwer": "Paleolitico"
+    },
+    {
+        "Question": "Qual das alternativas abaixo apenas contem classes de palavras?",
+        "Options": [
+            "Vogais, semivogais e consoantes",
+            "Artigo, verbo transitivo e verbo intransitivo",
+            "Fonologia, Morfologia e Sintaxe",
+            "Hiatos, ditongos e tritongos",
+            "Substantivo, verbo e preposicao"
+        ],
+        "Asnwer": "Substantivo, verbo e preposicao"
+    },
+    {
+        "Question": "Qual a montanha mais alta do Brasil?",
+        "Options": [
+            "Pico da Neblina",
+            "Pico Parana",
+            "Monte Roraima",
+            "Pico Maior de Friburgo",
+            "Pico da Bandeira"
+        ],
+        "Asnwer": "Pico da Neblina"
+    },
+    {
+        "Question": "Qual a velocidade da luz?",
+        "Options": [
+            "300 000 000 metros por segundo (m/s)",
+            "150 000 000 metros por segundo (m/s)",
+            "199 792 458 metros por segundo (m/s)",
+            "299 792 458 metros por segundo (m/s)",
+            "30 000 000 metros por segundo (m/s)"
+        ],
+        "Asnwer": "299 792 458 metros por segundo (m/s)"
+    },
+    {
+        "Question": "Em qual local da asia o portugues e lingua oficial?",
+        "Options": [
+            "india",
+            "Filipinas",
+            "Mocambique",
+            "Macau",
+            "Portugal"
+        ],
+        "Asnwer": "Macau"
+    },
+    {
+        "Question": "'It is six twenty' ou 'twenty past six' Que horas sao em ingles?",
+        "Options": [
+            "12:06",
+            "6:20",
+            "2:20",
+            "6:02",
+            "12:20"
+        ],
+        "Asnwer": "6:20"
+    },
+    {
+        "Question": "Quem e o autor de 'O Principe'",
+        "Options": [
+            "Maquiavel",
+            "Antoine de Saint-Exupery",
+            "Montesquieu",
+            "Thomas Hobbes",
+            "Rousseau"
+        ],
+        "Asnwer": "Maquiavel"
+    },
+    {
+        "Question": "Como e a conjugacao do verbo caber na primeira pessoa do singular do presente do indicativo?",
+        "Options": [
+            "Eu caibo",
+            "Ele cabe",
+            "Que eu caiba",
+            "Eu cabo",
+            "Nenhuma das alternativas"
+        ],
+        "Asnwer": "Eu caibo"
+    },
+    {
+        "Question": "Quais destas construcoes famosas ficam nos Estados Unidos?",
+        "Options": [
+            "Estatua da Liberdade, Golden Gate Bridge e Empire State Building",
+            "Estatua da Liberdade, Big Ben e The High Line",
+            "Angkor Wat, Taj Mahal e Skywalk no Grand Canyon",
+            "Lincoln Memorial, Sidney Opera House e Burj Khalifa",
+            "30 St Mary Axe, The High Line e Residencial 148 Spruce Street"
+        ],
+        "Asnwer": "Estatua da Liberdade, Golden Gate Bridge e Empire State Building"
+    },
+    {
+        "Question": "Quais destas doencas sao sexualmente transmissiveis?",
+        "Options": [
+            "Aids, tricomoniase e ebola",
+            "Chikungunya, aids e herpes genital",
+            "Gonorreia, clamidia e sifilis",
+            "Botulismo, cistite e gonorreia",
+            "Hepatite B, febre tifoide e hanseniase"
+        ],
+        "Asnwer": "Gonorreia, clamidia e sifilis"
+    },
+    {
+        "Question": "Qual destes paises e transcontinental?",
+        "Options": [
+            "Russia",
+            "Filipinas",
+            "Marrocos",
+            "Groenlândia",
+            "Tanzânia"
+        ],
+        "Asnwer": "Russia"
+    },
+    {
+        "Question": "Em qual das oracoes abaixo a palavra foi empregada incorretamente?",
+        "Options": [
+            "Mais uma vez, portou-se mal",
+            "e um homem mal",
+            "Esse e o mal de todos",
+            "Mal falou nele, o fulano apareceu",
+            "e um mau vendedor"
+        ],
+        "Asnwer": "e um homem mal"
+    },
+    {
+        "Question": "Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?",
+        "Options": [
+            "A Filosofia",
+            "A Biologia",
+            "A Matematica",
+            "A Astronomia",
+            "A Mitologia"
+        ],
+        "Asnwer": "A Mitologia"
+    },
+    {
+        "Question": "Qual das alternativas menciona apenas simbolos nacionais?",
+        "Options": [
+            "Bandeira insignia da presidencia, bandeira nacional, brasao, hinos e selo",
+            "Bandeira nacional, armas nacionais, hino nacional e selo nacional",
+            "Bandeira nacional, brasao, hino nacional e hino da independencia",
+            "Bandeira nacional, cores nacionais, hino nacional e hino da independencia",
+            "Bandeira insignia da presidencia, brasao flora e fauna e hinos"
+        ],
+        "Asnwer": "Bandeira nacional, armas nacionais, hino nacional e selo nacional"
+    },
+    {
+        "Question": "Quais os planetas do sistema solar?",
+        "Options": [
+            "Terra, Venus, Saturno, Urano, Jupiter, Marte, Netuno, Mercurio",
+            "Jupiter, Marte, Mercurio, Netuno, Plutao, Saturno, Terra, Urano, Venus",
+            "Venus, Saturno, Urano, Jupiter, Marte, Netuno, Mercurio",
+            "Jupiter, Marte, Mercurio, Netuno, Plutao, Saturno, Sol, Terra, Urano, Venus",
+            "Terra, Venus, Saturno, Jupiter, Marte, Netuno, Mercurio"
+        ],
+        "Asnwer": "Terra, Venus, Saturno, Urano, Jupiter, Marte, Netuno, Mercurio"
+    },
+    {
+        "Question": "Qual era o nome de Aleijadinho?",
+        "Options": [
+            "Alexandrino Francisco Lisboa",
+            "Manuel Francisco Lisboa",
+            "Alex Francisco Lisboa",
+            "Francisco Antonio Lisboa",
+            "Antonio Francisco Lisboa"
+        ],
+        "Asnwer": "Antonio Francisco Lisboa"
+    },
+    {
+        "Question": "Jupiter e Plutao sao os correlatos romanos de quais deuses gregos?",
+        "Options": [
+            "Ares e Hermes",
+            "Cronos e Apolo",
+            "Zeus e Hades",
+            "Dionisio e Demeter",
+            "Zeus e Ares"
+        ],
+        "Asnwer": "Zeus e Hades"
+    },
+    {
+        "Question": "Qual o maior animal terrestre?",
+        "Options": [
+            "Baleia Azul",
+            "Dinossauro",
+            "Elefante africano",
+            "Tubarao Branco",
+            "Girafa"
+        ],
+        "Asnwer": "Elefante africano"
+    },
+    {
+        "Question": "Qual o tema do famoso discurso Eu Tenho um Sonho, de Martin Luther King?",
+        "Options": [
+            "Igualdade das racas",
+            "Justica para os menos favorecidos",
+            "Intolerância religiosa",
+            "Premio Nobel da Paz",
+            "Luta contra o Apartheid"
+        ],
+        "Asnwer": "Igualdade das racas"
+    },
+    {
+        "Question": "Que lider mundial ficou conhecida como 'Dama de Ferro'",
+        "Options": [
+            "Dilma Rousseff",
+            "Angela Merkel",
+            "Margaret Thatcher",
+            "Hillary Clinton",
+            "Christine Lagarde"
+        ],
+        "Asnwer": "Margaret Thatcher"
+    },
+    {
+        "Question": "O que sao Acordo de Paris e Triplice Alianca respectivamente?",
+        "Options": [
+            "Acordo ortografico entre paises cuja lingua oficial e o frances e Acordo de cooperacao financeira internacional entre as tres maiores potencias mundiais",
+            "Acordo entre paises europeus acerca da imigracao e Acordo economico entre Inglaterra, Russia e Franca",
+            "Acordo entre varios paises acerca das consequencias do aquecimento global e Acordo de cooperacao financeira internacional entre as tres maiores potencias mundiais",
+            "Acordo de cooperacao financeira internacional entre as tres maiores potencias mundiais e Acordo entre varios paises acerca das consequencias do aquecimento global",
+            "Acordo entre varios paises acerca das consequencias do aquecimento global e Acordo entre Alemanha, imperio Austro-Hungaro e Italia acerca de apoio em caso de guerra"
+        ],
+        "Asnwer": "Acordo entre varios paises acerca das consequencias do aquecimento global e Acordo entre Alemanha, imperio Austro-Hungaro e Italia acerca de apoio em caso de guerra"
+    },
+    {
+        "Question": "Quais os nomes dos tres Reis Magos?",
+        "Options": [
+            "Gaspar, Nicolau e Natanael",
+            "Belchior, Gaspar e Baltazar",
+            "Belchior, Gaspar e Nataniel",
+            "Gabriel, Benjamim e Melchior",
+            "Melchior, Noe e Galileu"
+        ],
+        "Asnwer": "Belchior, Gaspar e Baltazar"
+    },
+    {
+        "Question": "Quais os principais heteronimos de Fernando Pessoa?",
+        "Options": [
+            "Alberto Caeiro, Ricardo Reis e alvaro de Campos",
+            "Ariano Suassuna, Raul Bopp e Quincas Borba",
+            "Bento Teixeira, Ricardo Reis e Haroldo de Campos",
+            "Alberto Caeiro, Ricardo Leite e Augusto de Campos",
+            "Bento Teixeira, Ricardo Reis e Augusto de Campos"
+        ],
+        "Asnwer": "Alberto Caeiro, Ricardo Reis e alvaro de Campos"
+    },
+    {
+        "Question": "Qual a religiao monoteista que conta com o maior numero de adeptos no mundo?",
+        "Options": [
+            "Judaismo",
+            "Zoroastrismo",
+            "Islamismo",
+            "Cristianismo",
+            "Hinduismo"
+        ],
+        "Asnwer": "Cristianismo"
+    },
+    {
+        "Question": "Qual desses filmes foi baseado na obra de Shakespeare?",
+        "Options": [
+            "Muito Barulho por Nada (2012)",
+            "Capitaes de Areia (2011)",
+            "A Dama das Camelias (1936)",
+            "A Revolucao dos Bichos (1954)",
+            "Excalibur (1981)"
+        ],
+        "Asnwer": "Muito Barulho por Nada (2012)"
+    },
+    {
+        "Question": "Quem foi o primeiro homem a pisar na Lua? Em que ano aconteceu?",
+        "Options": [
+            "Yuri Gagarin, em 1961",
+            "Buzz Aldrin, em 1969",
+            "Charles Conrad, em 1969",
+            "Charles Duke, em 1971",
+            "Neil Armstrong, em 1969"
+        ],
+        "Asnwer": "Neil Armstrong, em 1969"
+    },
+    {
+        "Question": "Qual o nome do cientista que descobriu o processo de pasteurizacao e a vacina contra a raiva?",
+        "Options": [
+            "Marie Curie",
+            "Blaise Pascal",
+            "Louis Pasteur",
+            "Antoine Lavoisier",
+            "Charles Darwin"
+        ],
+        "Asnwer": "Louis Pasteur"
+    },
+    {
+        "Question": "As pessoas de qual tipo sanguineo sao consideradas doadores universais?",
+        "Options": [
+            "Tipo A",
+            "Tipo B",
+            "Tipo O",
+            "Tipo AB",
+            "Tipo ABO"
+        ],
+        "Asnwer": "Tipo O"
+    },
+    {
+        "Question": "Quais sao os cromossomos que determinam o sexo masculino?",
+        "Options": [
+            "Os V",
+            "Os X",
+            "Os Y",
+            "Os W",
+            "Os Z"
+        ],
+        "Asnwer": "Os Y"
+    },
+    {
+        "Question": "Em que estado australiano fica situada a cidade de Sydney?",
+        "Options": [
+            "Nova Gales do Sul",
+            "Victoria",
+            "Tasmânia",
+            "Queensland",
+            "Norfolk"
+        ],
+        "Asnwer": "Nova Gales do Sul"
+    },
+    {
+        "Question": "Que organizacao juvenil foi fundado por Baden-Powell?",
+        "Options": [
+            "A juventude socialista",
+            "O escotismo",
+            "O clube dos aventureiros",
+            "A associacao juvenil",
+            "A Organizacao mundial da juventude"
+        ],
+        "Asnwer": "O escotismo"
+    },
+    {
+        "Question": "Quem amamentou os gemeos Romulo e Remo?",
+        "Options": [
+            "uma cabra",
+            "uma vaca",
+            "uma ovelha",
+            "uma gata",
+            "uma loba"
+        ],
+        "Asnwer": "uma loba"
+    },
+    {
+        "Question": "No exterior de que famoso edificio frances foi construida uma enorme pirâmide de vidro",
+        "Options": [
+            "Torre Eiffel",
+            "Petit Palais",
+            "Grand Palais",
+            "Museu do Louvre",
+            "Arco do Triunfo"
+        ],
+        "Asnwer": "Museu do Louvre"
+    },
+    {
+        "Question": "Como se chamam os vasos que transportam sangue do coracao para a periferia do corpo?",
+        "Options": [
+            "veias",
+            "Atrios",
+            "ventriculos",
+            "Arterias",
+            "Auriculos"
+        ],
+        "Asnwer": "Arterias"
+    },
+    {
+        "Question": "Com que dois paises faz fronteira o Equador?",
+        "Options": [
+            "com o Brasil e com a Colombia",
+            "com a Colombia e com a Venezuela",
+            "com a Colombia e com o Peru",
+            "com o Peru e com o Equador",
+            "com o Equador e o Brasil"
+        ],
+        "Asnwer": "com a Colombia e com o Peru"
+    },
+    {
+        "Question": "Que animal gruguleja?",
+        "Options": [
+            "o pavao",
+            "A garca",
+            "o papagaio",
+            "A cacatua",
+            "o peru"
+        ],
+        "Asnwer": "o peru"
+    },
+    {
+        "Question": "Qual e o maior arquipelago da Terra?",
+        "Options": [
+            "A Filipinas",
+            "A Indonesia",
+            "As Bahamas",
+            "A Finlândia",
+            "As Maldivas"
+        ],
+        "Asnwer": "A Indonesia"
+    },
+    {
+        "Question": "Que substância e absorvida pelas plantas e expirada por todos os seres vivos?",
+        "Options": [
+            "o oxigenio",
+            "o nitrogenio",
+            "o nitrato de sodio",
+            "o dioxido de ferro",
+            "o dioxido de carbono"
+        ],
+        "Asnwer": "o dioxido de carbono"
+    },
+    {
+        "Question": "Em que oceano fica Madagascar?",
+        "Options": [
+            "Oceano indico",
+            "Oceano Antartico",
+            "Oceano Atlântico",
+            "Oceano Pacifico",
+            "Oceano artico"
+        ],
+        "Asnwer": "Oceano indico"
+    },
+    {
+        "Question": "Que artista e conhecido como um dos expoentes maximos do <em>Ready-Mades</em>?",
+        "Options": [
+            "Pablo Picasso",
+            "Salvador Dali",
+            "Marcel Duchamp",
+            "Van Gogh",
+            "Leonardo da Vinci"
+        ],
+        "Asnwer": "Marcel Duchamp"
+    },
+    {
+        "Question": "Qual o metal cujo simbolo quimico e o Au?",
+        "Options": [
+            "Cobre",
+            "Prata",
+            "Mercurio",
+            "Ouro",
+            "Manganes"
+        ],
+        "Asnwer": "Ouro"
+    },
+    {
+        "Question": "Em que seculo o continente europeu foi devastado pela peste bubonica?",
+        "Options": [
+            "No seculo X",
+            "No seculo XI",
+            "No seculo XII",
+            "No seculo XIII",
+            "No seculo XIV"
+        ],
+        "Asnwer": "No seculo XIV"
+    },
+    {
+        "Question": "Quem viveu, segundo a Biblia, 969 anos?",
+        "Options": [
+            "Jesus Cristo",
+            "Noe",
+            "Matusalem",
+            "Benjamim",
+            "Abel"
+        ],
+        "Asnwer": "Matusalem"
+    },
+    {
+        "Question": "Em que cidade ocorreu a Eco-92, a Conferencia das Nacoes Unidas sobre ambiente e",
+        "Options": [
+            "Buenos Aires",
+            "Rio de Janeiro",
+            "Montevideu",
+            "Assuncao",
+            "Caracas"
+        ],
+        "Asnwer": "Rio de Janeiro"
+    },
+    {
+        "Question": "Quem pintou o teto da capela sistina?",
+        "Options": [
+            "Michelangelo",
+            "Leonardo da Vinci",
+            "Rafael",
+            "Sandro Botticelli",
+            "Donatello"
+        ],
+        "Asnwer": "Michelangelo"
+    },
+    {
+        "Question": "Quantos graus sao necessarios para que dois ângulos sejam complementares?",
+        "Options": [
+            "45",
+            "60",
+            "90",
+            "180",
+            "360"
+        ],
+        "Asnwer": "90"
+    },
+    {
+        "Question": "Quem foi o criador da tragedia grega?",
+        "Options": [
+            "Homero",
+            "Euripedes",
+            "Plutarco",
+            "esquilo",
+            "Sofocles"
+        ],
+        "Asnwer": "esquilo"
+    },
+    {
+        "Question": "Jim Morrison era vocalista de que grupo?",
+        "Options": [
+            "The Police",
+            "The Doors",
+            "Pink Floyd",
+            "Nirvana",
+            "AC/DC"
+        ],
+        "Asnwer": "The Doors"
+    },
+    {
+        "Question": "Qual destas obras arquitetonicas brasileiras e uma das Sete Maravilhas do Mundo Moderno?",
+        "Options": [
+            "Elevador Lacerda",
+            "Cristo Redentor",
+            "Estacao da Luz",
+            "One Tower",
+            "Palacio da Alvorada"
+        ],
+        "Asnwer": "Cristo Redentor"
+    },
+    {
+        "Question": "Em que ano e quem foi eleito o primeiro presidente do Brasil?",
+        "Options": [
+            "1891, Deodoro da Fonseca",
+            "1890, Floriano Peixoto",
+            "1889, Hermes da Fonseca",
+            "1930, Getulio Vargas",
+            "1822, Deodoro da Fonseca"
+        ],
+        "Asnwer": "1891, Deodoro da Fonseca"
+    },
+    {
+        "Question": "As obras Abaporu, Operarios e Antropofagia foram pintadas por qual artista brasileiro?",
+        "Options": [
+            "Di Cavalcanti",
+            "Anita Malfatti",
+            "Candido Potinari",
+            "Tarsila do Amaral",
+            "Romero Britto"
+        ],
+        "Asnwer": "Tarsila do Amaral"
+    },
+    {
+        "Question": "Em que pais nasceu Clarice Lispector?",
+        "Options": [
+            "Portugal",
+            "Russia",
+            "Brasil",
+            "Ucrânia",
+            "Franca"
+        ],
+        "Asnwer": "Ucrânia"
+    },
+    {
+        "Question": "Complete o proverbio 'Cavalo dado'",
+        "Options": [
+            "sai caro",
+            "tem medo de agua fria",
+            "nao se olha o rabo",
+            "bonito lhe parece",
+            "nao se olha os dentes"
+        ],
+        "Asnwer": "nao se olha os dentes"
+    },
+    {
+        "Question": "Quais dos orgaos abaixo pertencem ao sistema respiratorio?",
+        "Options": [
+            "Laringe e traqueia",
+            "Pulmoes e faringe",
+            "Esofago e bronquios",
+            "Tireoide e hipofise",
+            "Pâncreas e vasos sanguineos"
+        ],
+        "Asnwer": "Laringe e traqueia"
+    },
+    {
+        "Question": "O que e filantropo?",
+        "Options": [
+            "Pessoa que tem excesso de confianca",
+            "Pessoa egoista",
+            "Pessoa que pratica a caridade",
+            "Canto gregoriano",
+            "Poema de quatro versos"
+        ],
+        "Asnwer": "Pessoa que pratica a caridade"
+    }
+]
