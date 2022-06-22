@@ -33,7 +33,7 @@ class Tela(t.Turtle):
         self.screen.onkeypress(key="Up",fun=self.paddle_right.to_up)
         self.screen.onkeypress(key="s",fun=self.paddle_left.to_down)
         self.screen.onkeypress(key="Down",fun=self.paddle_right.to_down)
-    
+        
     def inicia_scoreboard(self):
         self.score_r = ScoreBoard((100, 200))
         self.score_l = ScoreBoard((-100, 200))
@@ -56,8 +56,8 @@ class Tela(t.Turtle):
 
     def exit_on_click(self):
         self.screen.exitonclick()
+        
     def update_screen(self):
-        time.sleep(0.1)
         self.valida_bola_em_tela()
         self.screen.update()
         self.ball.move_ball()

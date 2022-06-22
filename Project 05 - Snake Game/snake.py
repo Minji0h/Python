@@ -1,23 +1,27 @@
 from pickle import FALSE
+import random
 import turtle as t
 RIGHT = 0
 UP = 90
 LEFT = 180
 DOWN = 270
-
+PALLET = [(33,28,64),(45,44,64),(229,209,222),(199,202,217),(116,129,140)]
+t.colormode(255)
 
 class snake():
     def __init__(self):
         self.snake = []
+        self.color = random.choice(PALLET) 
         self.add_segment((0, 0))
         self.add_segment((-20, 0))
         self.add_segment((-40, 0))
         self.head = self.snake[0]
         
+        
 
     def add_segment(self, pos):
         segment = t.Turtle(shape="square")
-        segment.color("white")
+        segment.color(self.color)
         segment.penup()
         segment.goto(pos)
         segment.speed(0)
@@ -37,8 +41,9 @@ class snake():
         
     def valida_batida(self):
         for i in self.snake[1:]:
-            return False
-        return True
+            if(self.head.distance(i)<=10):
+                return True
+        return False
 
     def to_right(self):
         if(self.head.heading() != LEFT):

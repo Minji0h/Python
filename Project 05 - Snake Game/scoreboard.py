@@ -10,7 +10,6 @@ class ScoreBoard(Turtle):
         self.hideturtle()
         self.color("white")
         self.goto(0, 270)
-        self.update_score()
         
     def update_score(self):
         self.score+=1

@@ -14,6 +14,7 @@ def radom_color(pallet):
     g = rgb.g
     b = rgb.b
     rgb = (r,g,b)
+    print(rgb)
     return (r,g,b)
 
 

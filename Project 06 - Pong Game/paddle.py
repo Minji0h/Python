@@ -16,6 +16,7 @@ class Paddle(Turtle):
         self.penup()
         self.goto(position)
         self.shapesize(stretch_wid=STRETCH_WID, stretch_len=STRETCH_LEN)
+        self.speed(0)
 
     def to_up(self):
         new_x = self.xcor()
