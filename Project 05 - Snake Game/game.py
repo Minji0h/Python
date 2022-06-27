@@ -32,14 +32,14 @@ while game_is_on == True:
         food.new_position()
         time.sleep(0.1)
         snake.new_segment()
-        scoreBoard.update_score()
+        scoreBoard.increment_score()
     if(snake.head.xcor()>290) or (snake.head.ycor()>290) or (snake.head.xcor() <-290) or (snake.head.ycor() <-290):
         screen.update()
-        game_is_on = False
-        scoreBoard.game_over()
+        scoreBoard.reset()
+        snake.reset()
     if snake.valida_batida() == True:
         screen.update()
-        game_is_on = False
-        scoreBoard.game_over()
+        scoreBoard.reset()
+        snake.reset()
     
 screen.exitonclick()

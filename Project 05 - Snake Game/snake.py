@@ -12,12 +12,13 @@ class snake():
     def __init__(self):
         self.snake = []
         self.color = random.choice(PALLET) 
+        self.create_snake()
+        
+    def create_snake(self):
         self.add_segment((0, 0))
         self.add_segment((-20, 0))
         self.add_segment((-40, 0))
         self.head = self.snake[0]
-        
-        
 
     def add_segment(self, pos):
         segment = t.Turtle(shape="square")
@@ -60,3 +61,9 @@ class snake():
     def to_down(self):
         if(self.head.heading() != UP):
             self.head.setheading(DOWN)
+
+    def reset(self):
+        for seg in self.snake:
+            seg.hideturtle()
+        self.snake.clear()
+        self.create_snake()
