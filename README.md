@@ -11,7 +11,7 @@ A compilation of projects using python.
 6. [Project 6 - Pong Game](https://github.com/Minji0h/Python/tree/main/Project%2006%20-%20Pong%20Game)
 7. [Project 7 - The turtle crossing game](https://github.com/Minji0h/Python/tree/main/Project%2006%20-%20Pong%20Game)
 8. [Project 8 - Mail Merge](https://github.com/Minji0h/Python/tree/main/Project%2007%20-%20The%20Turtle%20Crossing%20Game)
-9. [Project 9 - States Game](https://github.com/Minji0h/Python/tree/main/Project%2008%20-%20Mail%20Merge)
+9. [Project 9 - States Game](https://github.com/Minji0h/Python/tree/main/Project%2009%20-%20States%20Game)
 
 ### Avanced
 
