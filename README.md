@@ -15,7 +15,7 @@ A compilation of projects using python.
 10. [Project 10 - Nato Alphabet](https://github.com/Minji0h/Python/tree/main/Project%2010%20-%20Nato%20Alphabet)
 11. [Project 11 - Mile to kilometer converter](https://github.com/Minji0h/Python/tree/main/Project%2011%20-%20Mile%20to%20kilometer%20converter)
 12. [Project 12 - Pomodoro](https://github.com/Minji0h/Python/tree/main/Project%2012%20-%20Pomodoro)
-12. [Project 13 - Password ](https://github.com/Minji0h/Python/tree/main/Project%2013%20-%20Password%20Manager)
+12. [Project 13 - Password Generator](https://github.com/Minji0h/Python/tree/main/Project%2013%20-%20Password%20Manager)
 
 ### Avanced
 
@@ -27,3 +27,5 @@ A compilation of projects using python.
 * [Tkinter](https://docs.python.org/3/library/tkinter.html): Graphic library used to create aplications
 * [Timer](https://docs.python.org/3/library/time.html): Library used to time funcionalities
 * [Turtle](https://docs.python.org/3/library/turtle.html#turtle.filling): Graphic library used to create pictures and shapes by providing them with a virtual canvas.
+* [Random](https://docs.python.org/3/library/random.html): This module implements pseudo-random number generators for various distributions.
+* [Pyperclip](https://pypi.org/project/pyperclip/): Pyperclip is a cross-platform Python module for copy and paste clipboard functions. It works with Python 2 and 3.
