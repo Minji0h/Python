@@ -1,5 +1,7 @@
 # Python Projects
-A compilation of projects using python.
+Alguns projetos de nivel intermediario e avançado utilizando python e suas principais bibliotecas.
+
+[Anotações da linguagem](https://www.notion.so/Python-afdf3003ae0844ce8fafdbfe22a46ec5)
 
 ## Projects 
 ### Intermediary 
