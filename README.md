@@ -1,5 +1,5 @@
 # Python Projects
-Alguns projetos de nivel intermediario e avançado utilizando python e suas principais bibliotecas.
+Alguns projetos de pythons separados em niveis, basico, médio e intermediario.
 
 [Anotações da linguagem](https://www.notion.so/Python-afdf3003ae0844ce8fafdbfe22a46ec5)
 
@@ -23,7 +23,8 @@ Alguns projetos de nivel intermediario e avançado utilizando python e suas prin
 
 
 
-## :department_store: Libraries used
+## :department_store: Bibliotecas utilizadas nos projetos:
+
 * [Json](https://docs.python.org/3/library/json.html): Library used to read and convert json files on python
 * [Pandas](https://pandas.pydata.org/): Data analize library
 * [Tkinter](https://docs.python.org/3/library/tkinter.html): Graphic library used to create aplications
